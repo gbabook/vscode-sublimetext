@@ -2250,7 +2250,6 @@ Applies to all other files
     -o-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;
-    cursor: pointer;
     overflow: hidden;
     width: 100%;
     touch-action: none
