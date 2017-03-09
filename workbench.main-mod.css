@@ -5885,7 +5885,7 @@ Applies to all other files
 .monaco-workbench>.part.editor>.content>.one-editor-silo>.container>.title .tabs-container>.tab .tab-label span,
 .monaco-workbench>.part.editor>.content>.one-editor-silo>.container>.title .title-label a,
 .monaco-workbench>.part.editor>.content>.one-editor-silo>.container>.title .title-label span {
-    cursor: pointer
+
 }
 
 .vs .monaco-workbench>.part.editor>.content>.one-editor-silo>.container>.title .tabs-container>.tab .tab-label a,
