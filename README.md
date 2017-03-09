@@ -40,4 +40,4 @@ Syntax hilight fix
 
 OSX: `~/.vscode/extensions/thanhtrang.theme-flatland-monokai-0.1.2/themes/`
 
-Windows: `C:\Users\\{YOUR NAME}\\.vscode\extensions\thanhtrang.theme-flatland-monokai-0.1.2\themes`
+Windows: `C:\Users\{YOUR NAME}\.vscode\extensions\thanhtrang.theme-flatland-monokai-0.1.2\themes`
