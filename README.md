@@ -13,7 +13,7 @@ Install
 ----------
 - Search keyword `flatland` in VS Code extention market, install `Flatland Monokai` (Thành Trang) and `flatland icon theme` (gebilaoxiong).
 - Copy `tab` foler and `workbench.main-mod.css` to `/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/out/vs/workbench/electron-browser/` on OSX or `C:\Program Files (x86)\Microsoft VS Code\resources\app\out\vs\workbench\electron-browser` on Windows.
-- Back up the orignal css file `workbench.main.css` and rename `workbench.main-mod.css` to `workbench.main-mod.css`.
+- Back up the orignal css file `workbench.main.css` then rename `workbench.main-mod.css` to `workbench.main-mod.css`.
 
 Settings
 ----------
